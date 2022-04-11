@@ -1,0 +1,1 @@
+{"alexnet": 0.032, "googlenet": 0.111, "resnet101": 0.272, "resnet152": 0.385, "resnet18": 0.055, "resnet34": 0.122, "resnet50": 0.174, "vgg16": 0.313, "vgg19": 0.371}

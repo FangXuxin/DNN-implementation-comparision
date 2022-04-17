@@ -4,7 +4,7 @@ import time
 
 import torch
 import torchvision
-from tensorboardX import SummaryWriter
+from torch.utils.tensorboard import SummaryWriter
 from torch import nn
 from torch.utils.data import DataLoader
 from tqdm import tqdm
